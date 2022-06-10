@@ -6,7 +6,7 @@ Brem EA, McNulty AD, Israelsen WJ. *Breeding and hibernation of captive meadow j
 While the relevant final data and methods are contained in the paper and Supporting Information, I am sharing my scripts and working commands & notes here, mostly for my own reference if needed.
 
 ### As context:
-- The text file is a running log of my bash and R commands and notes.  It is more of a historical record and only runnable in the sense that one could manually run through the commands to reproduce everything I did in the paper.  
+- Notebook.txt is a running log of my bash and R commands and notes.  It is more of a historical record and only runnable in the sense that one could manually run through the commands to reproduce everything I did in the paper. (I was working on the command line and this was my method of record keeping.)
 - The ad hoc awk scripts were for wrangling some time series data obtained from Expedata software (Sable Systems International), following cleanup.
 - I am working on sorting through the intermediate results to upload relevant input data for running the awk scripts.
 - The glm_hib_experiment folder contains the data I used for the multiple regression in the paper; the R commands are in the text file.

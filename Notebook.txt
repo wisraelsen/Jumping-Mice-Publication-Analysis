@@ -1,10 +1,10 @@
-# Analysis Notes for Zapus Husbandy Paper 2020-07-15
-
 #######################
 # Uploaded 2021-06-10 as historical record and a place for me to find code snippets if needed.
 # This file contains a mix of R and bash commands, some relevant output, and my running commentary as I worked through the analysis for the paper.
 # (Think of this as the poor man's textfile version of a jupyter notebook.)
 #######################
+
+# Analysis Notes for Zapus Husbandy Paper 2020-07-15
 
 # Making Map of trapping area using R
 

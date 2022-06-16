@@ -4,6 +4,7 @@
 # The figures are saved in PDF format.
 #
 # Input files are included in the current directory:
+# fraction_male.txt
 #	gest_length_bounds.txt
 #	litter-size.txt
 #	litter-size_all-M-or-F.txt
@@ -12,8 +13,6 @@
 # and saving the histograms of 10 million simulated litters is resource intensive.
 # If you get this - "Error: vector memory exhausted (limit reached?)"
 # add "R_MAX_VSIZE=100Gb" to first line of .Renviron and restart R.
-# 
-#
 ##############################################################################
 
 library(ggplot2)

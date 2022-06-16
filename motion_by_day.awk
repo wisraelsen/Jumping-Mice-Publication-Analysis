@@ -1,6 +1,6 @@
 #!/usr/bin/awk
 
-# program to compile motion information from cleaned expedata export file, adds up activity data for each day, split by light cycle
+# script to compile motion information from cleaned expedata export file, adds up activity data for each day, split by light cycle
 # requires input file with following columns: 1 - date, 2 - elapsed time for that date in seconds, 3 - motion sensor voltage (~3.3 = motion, ~0 = no motion)
 # will use 1.5V as cutoff
 
